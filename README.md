@@ -1,2 +1,2 @@
 # study
-공부한 자료 저장소
+JAVA , Spring 공부한 자료 저장소
